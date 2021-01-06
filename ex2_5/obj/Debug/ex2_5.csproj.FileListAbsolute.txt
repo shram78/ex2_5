@@ -1,0 +1,7 @@
+D:\iJunior\ex2\ex2_5\ex2_5\bin\Debug\ex2_5.exe.config
+D:\iJunior\ex2\ex2_5\ex2_5\bin\Debug\ex2_5.exe
+D:\iJunior\ex2\ex2_5\ex2_5\bin\Debug\ex2_5.pdb
+D:\iJunior\ex2\ex2_5\ex2_5\obj\Debug\ex2_5.csprojAssemblyReference.cache
+D:\iJunior\ex2\ex2_5\ex2_5\obj\Debug\ex2_5.csproj.CoreCompileInputs.cache
+D:\iJunior\ex2\ex2_5\ex2_5\obj\Debug\ex2_5.exe
+D:\iJunior\ex2\ex2_5\ex2_5\obj\Debug\ex2_5.pdb
